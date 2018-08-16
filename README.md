@@ -1,2 +1,3 @@
-# Hyperledger-bankapp
-My first hyperledger bank application
+# test-bank
+
+My own bank
